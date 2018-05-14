@@ -174,7 +174,7 @@ textarea {
     font-family: Georgia, Times, "Times New Roman", serif;
     color: gray;
     border: 1px solid lightgray;
-    font-size: 14px;
+    font-size: 15px;
     padding: 4px;
     width: 98%;
     height: 250px;
@@ -185,6 +185,8 @@ textarea {
     background-color: teal;
     border: 0;
     padding: 10px 40px;
+    font-weight: bold;
+    font-size: 13px;
 }
 
 .submit_button:hover {
