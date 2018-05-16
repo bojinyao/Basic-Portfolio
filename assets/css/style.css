@@ -13,6 +13,10 @@ footer {
     height: 30px;
     background-color: gray;
     text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 h6 {
@@ -91,6 +95,7 @@ p {
 section {
     position: relative;
     margin: 30px auto;
+    margin-bottom: 60px;
     width: 960px;
     background-color: #ffffff;
     text-align: center;
