@@ -113,7 +113,7 @@ section {
     margin-bottom: 20px;
 }
 
-.content_title {
+header {
     font-size: 30px;
     color: teal;
     float: left;
